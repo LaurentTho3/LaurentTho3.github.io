@@ -12,5 +12,9 @@ main:
       #- title: "Blog Posts"
       #url: /year-archive/
     
+  - title: "Funding and awards"
+    url: /honours/
+
   - title: "CV"
     url: /cv/
+
