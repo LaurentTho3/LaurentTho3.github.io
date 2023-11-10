@@ -9,6 +9,7 @@ author_profile: true
 
 ## Funding
 - _2023_ **Japanese Society for the Promotion of Science (JSPS) Postdoctoral Fellowships for Research in Japan (Short-term program)**
+- _2022_ **SFI Lero Platform project funding** 1 year postdoc position
 - _2017 - 2021_ **Government of Ireland Postgraduate Scholarship** PhD program fully funded by the Irish Research Council
 - _2015 - 2017_ **Monbukagakusho (MEXT) Postgraduate Student Scholarship** Fully funded master’s degree
 
