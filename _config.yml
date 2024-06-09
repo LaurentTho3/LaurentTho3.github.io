@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Thomas Laurent"
 title_separator          : "-"
 name                     : &name "Thomas Laurent"
-description              : &description "JSPS international fellow at NII, Japan"
+description              : &description "Research Fellow at Trinity College Dublin, Ireland"
 url                      : https://LaurentTho3.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "LaurentTho3/LaurentTho3.github.io"
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Thomas Laurent"
   avatar           : "thomas.png"
-  bio              : "JSPS international fellow at NII, Japan"
-  location         : "Tokyo, Japan"
+  bio              : "Research Fellow at Trinity College Dublin, Ireland"
+  location         : "Dublin, Ireland"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=HAosqiEAAAAJ"
