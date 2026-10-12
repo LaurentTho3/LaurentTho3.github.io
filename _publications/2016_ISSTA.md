@@ -1,5 +1,6 @@
 ---
 title: "PIT: a Practical Mutation Testing Tool for Java"
+authors: "Henry Coles, Thomas Laurent, Christopher Henard, Mike Papadakis, Anthony Ventresque"
 collection: publications
 permalink: /publication/2016-ISSTA
 excerpt: ''

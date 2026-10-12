@@ -1,5 +1,6 @@
 ---
 title: "Towards a Gamified Equivalent Mutants Detection Platform"
+authors: "Thomas Laurent, Laura Guillot, Motomichi Toyama, Ross Smith, Dan Bean, Anthony Ventresque"
 collection: publications
 permalink: /publication/2017-ICST-poster
 excerpt: ''

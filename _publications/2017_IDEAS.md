@@ -1,5 +1,6 @@
 ---
 title: "RTA: a Framework For the Integration of Local and Relational Open Data "
+authors: "Ria Mae Borromeo, Thomas Laurent, Motomichi Toyama"
 collection: publications
 permalink: /publication/2017-IDEAS
 excerpt: ''

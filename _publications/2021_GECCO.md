@@ -1,5 +1,6 @@
 ---
 title: "Achieving Weight Coverage for an Autonomous Driving System with Search-based Test Generation HOP track at GECCO 2021)"
+authors: "Thomas Laurent, Paolo Arcaini, Fuyuki Ishikawa, Anthony Ventresque"
 collection: publications
 permalink: /publication/2021-GECCO
 excerpt: ''

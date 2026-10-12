@@ -1,5 +1,6 @@
 ---
 title: "Commit-Aware Mutation Testing"
+authors: "Wei Ma, Thomas Laurent, Miloš Ojdanić, Thierry Titcheu Chekam, Anthony Ventresque, Mike Papadakis"
 collection: publications
 permalink: /publication/2020-ICSME
 excerpt: ''
