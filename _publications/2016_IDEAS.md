@@ -1,5 +1,6 @@
 ---
 title: "The Influence of Crowd Type and Task Complexity on Crowdsourced Work Quality"
+authors: " Ria Mae Borromeo, Thomas Laurent, Motomichi Toyama"
 collection: publications
 permalink: /publication/2016-IDEAS
 excerpt: ''
