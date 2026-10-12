@@ -32,7 +32,7 @@
                   <a href="https://doi.org/{{post.doi}}" target="_blank"><img src="https://img.shields.io/badge/DOI-{{post.doi | replace:"-", "--"}}-black" alt="DOI"></a>
           {% endif %}
           {% if post.authors %}
-              {{post.authors}}. 
+              {{ post.authors }}. 
           {% endif %}
           "{{ title }}"
       {% else %}
